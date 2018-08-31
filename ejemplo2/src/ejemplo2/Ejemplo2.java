@@ -17,6 +17,7 @@ public class Ejemplo2 {
     public static void main(String[] args) {
         
         System.out.println("asasas");
+        System.out.println("algo");
         System.out.println("probando gitKreaken");
         // TODO code application logic here
     }
